@@ -23,3 +23,7 @@ Both tokenizers were then evaluated on a held-out part of the dataset. The idea 
 Finally, I would like to give some stats about token distribution. Our tokenizer contains 28586 tokens made up of latin alphabet characters with a minimum length of two. Tokens with a leading space are included in this. It contains 18123 Japanese tokens longer than a single character and 9626 tokens for Japanese and Chinese characters, which cannot be easily told apart for the sake of these stats due to the Unicode han unification. 9200 other tokens are included. This space is taken up mostly by Unicode characters such as emoji.
 
 For comparison, the LLaMa tokenizer contains 23964 tokens made up only of latin alphabet characters, no Japanese token longer than a single character, 836 Japanese characters and 7224 other tokens.
+
+## License
+
+The tokenizer is licensed under the GNU General Public License, version 2.
