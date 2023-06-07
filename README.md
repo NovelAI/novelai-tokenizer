@@ -24,6 +24,10 @@ Finally, I would like to give some stats about token distribution. Our tokenizer
 
 For comparison, the LLaMa tokenizer contains 23964 tokens made up only of latin alphabet characters, no Japanese token longer than a single character, 836 Japanese characters and 7224 other tokens.
 
+## JavaScript implementation
+
+The JavaScript implementation used by the NovelAI frontend can be found [ħere](https://github.com/NovelAI/nai-js-tokenizer).
+
 ## License
 
 The tokenizer is licensed under the GNU General Public License, version 2.
