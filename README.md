@@ -26,7 +26,7 @@ For comparison, the LLaMa tokenizer contains 23964 tokens made up only of latin 
 
 ## JavaScript implementation
 
-The JavaScript implementation used by the NovelAI frontend can be found [ħere](https://github.com/NovelAI/nai-js-tokenizer).
+The JavaScript implementation used by the NovelAI frontend can be found [here](https://github.com/NovelAI/nai-js-tokenizer).
 
 ## License
 
