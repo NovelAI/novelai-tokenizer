@@ -28,6 +28,10 @@ For comparison, the LLaMa tokenizer contains 23964 tokens made up only of latin 
 
 The JavaScript implementation used by the NovelAI frontend can be found [here](https://github.com/NovelAI/nai-js-tokenizer).
 
+## V2
+
+For V2, the original digit special tokens were replaced with english contractions. Digits will therefore be encoded using corresponding the byte tokens instead.
+
 ## License
 
 The tokenizer is licensed under the GNU General Public License, version 2.
