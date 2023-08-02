@@ -32,6 +32,13 @@ The JavaScript implementation used by the NovelAI frontend can be found [here](h
 
 For V2, the original digit special tokens were replaced with english contractions. Digits will therefore be encoded using corresponding the byte tokens instead.
 
+## Huggingface
+
+Our tokenizer is also available on Huggingface Hub:
+
+* https://huggingface.co/NovelAI/nerdstash-tokenizer-v1
+* https://huggingface.co/NovelAI/nerdstash-tokenizer-v2
+
 ## License
 
 The tokenizer is licensed under the GNU General Public License, version 2.
