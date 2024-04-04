@@ -1,6 +1,6 @@
 import sentencepiece as spm
 
-s = spm.SentencePieceProcessor(model_file='novelai.model')
+s = spm.SentencePieceProcessor(model_file='novelai_v2.model')
 
 text = "The quick brown fox jumps over the goblin."
 
